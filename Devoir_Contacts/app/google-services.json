@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807020091137",
+    "project_id": "contactsipsl",
+    "storage_bucket": "contactsipsl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807020091137:android:b41f8cc368b4a54db12d00",
+        "android_client_info": {
+          "package_name": "com.example.devoir_contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807020091137-6msj940n9eb0dfmrlpsf760m4p4825sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwcKdNwit2h8UaTYNO4Yg9WqWf0udeEDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807020091137-6msj940n9eb0dfmrlpsf760m4p4825sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
